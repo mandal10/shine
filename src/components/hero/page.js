@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 import Slider from "react-slick";
 // import StatsSection from "./components/statssection/page";
-import StatsSection from "./statssection/page";
+import StatsSection from "../statsSection/page";
 
 
 // Example slides data
