@@ -2,7 +2,7 @@ import AboutSection from '@/components/about/page'
 import CommonHero from '@/components/commonhero/page'
 import FAQSection from '@/components/faq/pages'
 import AboutSchool from './aboutSchool'
-import StatsSection from '@/components/statssection/page'
+import StatsSection from './components/statssection/page'
 import WhoWeAre from './whoWeAre'
 import React from 'react'
 

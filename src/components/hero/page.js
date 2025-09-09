@@ -3,7 +3,7 @@
 import React from "react";
 import Image from "next/image";
 import Slider from "react-slick";
-import StatsSection from "@/components/statssection/page";
+import StatsSection from "./components/statssection/page";
 
 // Example slides data
 const slides = [
