@@ -1,0 +1,11 @@
+@media screen and (max-width: 770px) {
+  .topbar {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px; 
+    padding: 15px;
+    padding-bottom: 10px;
+  }
+  
+}
+
